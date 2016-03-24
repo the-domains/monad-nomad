@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing testing
-datePublished: '2016-03-24T21:58:01.114Z'
-dateModified: '2016-03-24T21:57:54.383Z'
+datePublished: '2016-03-24T21:58:24.762Z'
+dateModified: '2016-03-24T21:58:09.951Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-testing-testing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-testing-testing.md
-published: true
 url: testing-testing/index.html
 _type: Article
 
