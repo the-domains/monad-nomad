@@ -1,0 +1,28 @@
+name: Monad Nomad
+favicon: null
+layout_spectrum: 0.6975514446385205
+typography_spectrum: 0.7511029385495931
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5002495439257473
+  lightness: 0.6084942368324846
+  saturation: 0.21215605596080422
+  rhythmicContrast: 0.104690654668957
+purpose: []
